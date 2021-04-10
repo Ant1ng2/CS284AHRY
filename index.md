@@ -23,15 +23,11 @@ We may want to add different shaders as well as adjust the quantities of certain
 - Week 4: Test the simulator and debug.
 
 ## Resources:
-GPU Gem: https://cg.informatik.uni-freiburg.de/intern/seminar/gridFluids_GPU_Gems.pdf
-
-A tutorial about fluid simulation : http://users.encs.concordia.ca/~grogono/Graphics/fluid-tutorials.pdf
-
-A detailed implementation using WebGL: https://gamedevelopment.tutsplus.com/tutorials/how-to-write-a-smoke-shader--cms-25587
+- GPU Gem: https://cg.informatik.uni-freiburg.de/intern/seminar/gridFluids_GPU_Gems.pdf
+- A tutorial about fluid simulation : http://users.encs.concordia.ca/~grogono/Graphics/fluid-tutorials.pdf
+- A detailed implementation using WebGL: https://gamedevelopment.tutsplus.com/tutorials/how-to-write-a-smoke-shader--cms-25587
 
 ### Past Smoke simulators:
-https://shariewang.github.io/cs184-smoke/docs/
-
-https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
-
-https://rachelbhadra.github.io/smoke_simulator/index.html
+- https://shariewang.github.io/cs184-smoke/docs/
+- https://github.com/PavelDoGreat/WebGL-Fluid-Simulation
+- https://rachelbhadra.github.io/smoke_simulator/index.html
